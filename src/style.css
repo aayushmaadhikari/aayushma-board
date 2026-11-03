@@ -134,8 +134,8 @@ button:disabled {
 }
 
 .feed {
-  columns: 4 220px;
-  column-gap: 18px;
+  columns: 3 280px;
+  column-gap: 22px;
 }
 
 .card {
